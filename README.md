@@ -1,6 +1,6 @@
 # Store-Front
 
-The store-front is the Vue.js frontend that allows users to select products and place orders.
+The store-front is the Vue.js frontend that allows users to select products and place orders. *
 
 ## Requirements
 
